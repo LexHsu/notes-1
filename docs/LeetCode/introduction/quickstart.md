@@ -36,6 +36,8 @@ class Solution {
 - 循环时，i 不需要到 len-1
 - 如果找到目标字符串，len(needle)==j
 
+TODO：双指针、KMP
+
 示例 2
 
 [subsets](https://leetcode-cn.com/problems/subsets/)
